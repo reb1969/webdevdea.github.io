@@ -1,17 +1,20 @@
-body { background-color:#003366;
-background-image:url(primevertical.png);
+body { background-color:Pink;
+background-image:url(large.png);
        color:#2221f7;
        font-family:Calibri,Arial, Verdana, sans-serif;
 }
-#wrapper { width: 680px;
+p { width: 680px;
           min-width: 680px;
 		  margin: 0 auto;
 		  background-color: #ffffcc;
 		  color: #003300;
 		  padding-left: 10px;
-		  border: 3px
+		  border: 3px;
+		  text-align: center 
            
 } 
+
+H1,H2 { text-align: center }
 #leftcolumn { float: left;
 width: 150px;
 }
