@@ -1,0 +1,91 @@
+body {font-family:Times New Roman;
+    
+  background-position: left top;
+  background-repeat: repeat-x;
+
+
+	}
+	
+h1{color: #3366CC;
+letter-spacing:10px;
+
+}
+
+#wrapper {/* background-color: black; */
+           color: #D8D8D8 ;
+           width: 800px;
+		   margin: 0 auto;
+          
+} 
+#header {/* background-color:black;*/
+        color: #D8D8D8 ;
+		text-align:center;
+        font-size: 150%;   
+        margin-right:0;
+		margin-bottom:0;
+		background-repeat: no-repeat;
+		
+}
+
+
+
+
+
+#content {  background-color: #F0F0F0;
+           color: black;
+		   padding: 10px 20px;
+		   overflow: auto;
+		   
+	
+		   
+	
+}
+
+
+fieldset {
+  width: 30em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input{
+  float: right;
+  clear: right;
+  margin-right : 15em;
+   
+}
+
+label { 
+  float: left;
+  clear: left;
+  text-align: right;
+  width: 1em;
+  margin-left : 3em;
+}
+
+button {
+  float: right;
+ margin-right:20em;
+  clear: both;
+  margin-top: 1em;
+   margin-bottom: 2em;
+  width :10em;
+  height:3em;
+}
+
+  
+#footer {color : gray;
+         font-size:70%;
+         text-align: center;
+         padding: 10px;
+		 background-color:black;
+		 clear: both;
+ 
+
+}
+
+
+
+
+
+ 
