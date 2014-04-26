@@ -13,7 +13,7 @@
 			#logo {
 				width: 150px;
 				margin: 10px auto 25px auto;
-				text-align: center }
+				align: center; }
 			ul {
 				width: 570px;
 				padding: 15px;
