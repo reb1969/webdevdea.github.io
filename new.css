@@ -1,10 +1,8 @@
-body { 
-  background: url(PHP.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+body {
+				font-size: 80%;
+				font-family: "Courier New", Courier, monospace;
+				letter-spacing: 0.15em;	
+				background-color: #efefef;}
 			#page {
 				max-width: 940px;
 				min-width: 720px;
@@ -13,9 +11,8 @@ body {
 				border: 4px double #000;
 				background-color: #ffffff;}
 			#logo {
-		
-			 margin-left: auto;
-  			margin-right: auto;}
+				width: 150px;
+				margin: 10px auto 25px auto;}
 			ul {
 				width: 570px;
 				padding: 15px;
