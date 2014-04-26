@@ -11,9 +11,9 @@
 				border: 4px double #000;
 				background-color: #ffffff;}
 			#logo {
-				width: 150px;
-				margin: 10px auto 25px auto;
-				align: center; }
+				width: 100px;
+			        margin-left: auto;
+                                margin-right: auto;}
 			ul {
 				width: 570px;
 				padding: 15px;
