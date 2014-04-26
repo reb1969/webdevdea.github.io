@@ -1,0 +1,123 @@
+body { background-color:#003366;
+background-image:url(primevertical.png);
+       color:#2221f7;
+       font-family:Calibri,Arial, Verdana, sans-serif;
+}
+#wrapper { width: 680px;
+          min-width: 680px;
+		  margin: 0 auto;
+		  background-color: #ffffcc;
+		  color: #003300;
+		  padding-left: 10px;
+		  border: 3px
+           
+} 
+#leftcolumn { float: left;
+width: 150px;
+}
+
+div#leftcolumn a{
+display: block;
+         margin:0 15px 15px 15px; inset #cccccc; text-decoration: none;
+}
+#leftcolumn ul { list-style-type: none; margin-top: 0;margin-left: 0;
+padding-left: 0;
+}
+
+#leftcolumn a:link {color:#00FF00;}    /* unvisited link */
+#leftcolumn a:visited {color:#FF0000;} /* visited link */
+#leftcolumn a:hover {color:#FF0000;}   /* mouse over link */
+#leftcolumn a:active {color:#FF0000;}  /* selected link */
+
+#rightcolumn {margin-left: 150px; padding: 0 20px 20px 0;
+}
+		 
+
+
+
+h2 { background-color: #ffffcc;
+     color: #003366;
+}
+
+h3 { background-color: #ffffcc;
+         color: #006600;
+		 }
+		 
+ 
+
+
+.dd{font-style: italic;font-size:.90em;
+    font-weight:bold;
+    line-height: 200%;
+}
+	
+
+
+
+.logo { background-color:#ffffcc;
+       color: #48751A; 
+}
+
+.home { background-image: url(schaumburg.jpg);
+        background-position: -100px -260px;
+		background-repeat: no-repeat;
+		color: #ffffcc;
+		padding: 60px 5px 20px 5px;
+		width: 200px;
+}		
+
+ .contact { text-align:left;
+           font-weight:bold;
+		   font-size:.90em;
+        font-family: "Times New Roman", serif;
+}
+#nav { font-size:.70em;
+}
+#nav ul { margin-left: 0;padding-left: 0;}
+
+#nav li { display:inline;
+          list-style-type:none;}
+
+#nav a:link {color:#00FF00;}    /* unvisited link */
+#nav a:visited {color:#FF0000;} /* visited link */
+#nav a:hover {color:#FF0000;}   /* mouse over link */
+#nav a:active {color:#FF0000;}  /* selected link */
+
+#footer { font-size: .60em;
+          font-style: italic;
+		  font-family: Arial, Verdana, sans-serif;
+}
+img {border:0;}
+
+.property { align: left;
+padding-right:30px;padding-top:5px; float:left;
+}
+.home{ background-image:(schaumburg.jpg);background-position: -100px -260px; background-repeat: no-repeat;
+color: #ffffcc; padding: 60px 5px 20px 5px; width: 200px;
+}
+table, th, td
+{
+border: 3px solid red;
+}
+table {background-color:ffffff; padding: 5px;}
+th {text-align:left;color:#006600;}
+td {vertical-align: top;}
+.labelCol{ float: left:width:100px;text-align:right;padding-right:10px;}
+#myRow{padding-bottom: 20px;}
+.mySubmit { margin: 10px;}
+
+
+
+	   
+
+
+
+
+
+
+
+
+
+
+
+		   
